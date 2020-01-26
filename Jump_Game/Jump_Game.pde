@@ -123,7 +123,7 @@ void Initialize()
   rad = false;           
   glogic = false; 
   gameoverFlag = false;
-  nomalV = 1;
+  nomalV = 1.2;
   
   InitializeBlock();
 }

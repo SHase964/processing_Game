@@ -5,7 +5,7 @@ class dispmenu{
   boolean f = true;  
   
   void dispGameOver(){
-    disp("RESURT", true);
+    disp("RESULT", true);
   }
   
   void dispHomeGame(){
